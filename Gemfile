@@ -46,4 +46,5 @@ end
 
 gem 'rails_12factor', group: :production
 gem 'bootstrap-sass'
+gem 'simple_form'
 gem 'sprockets', '2.11.0'
